@@ -1,0 +1,8 @@
+     H            Y                                     1
+     FSYOHIN  UP  E                    DISK
+     ISYOHINR     10
+      *
+     C                     Z-ADD0.08      PRTXR            消費税率
+     C                     MOVE *DATE     PRUPDT           最終更新日
+     C                     TIME           PRUPTM           最終更新時刻
+     C   10                UPDATSYOHINR
