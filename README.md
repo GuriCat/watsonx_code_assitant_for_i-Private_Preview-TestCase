@@ -1,4 +1,4 @@
-# watsonx_code_assitant_fir_i-Private_Preview-TestCase
+# watsonx_code_assitant_for_i-Private_Preview-TestCase
 Source codes for public preview of watsonx code assistant for i 
 
 ![The test cases used the same source as the “Private Preview”.](TestCases.png)
