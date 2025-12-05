@@ -1,0 +1,16 @@
+     A                                      UNIQUE                    
+     A                                      CCSID(5026)               
+     A          R PERSONR                                             
+     A            REGNO          5S 0       COLHDG(' 登録番号 ')      
+     A            KJNAME        22O         COLHDG(' 姓名 ')          
+     A            KNNAME        20          COLHDG(' 姓名（読み） ')  
+     A            GENDER         1          COLHDG(' 性別 ')          
+     A            TEL           12          COLHDG(' 電話番号（主） ')
+     A            MOBILE        12          COLHDG(' 電話番号（副） ')
+     A            POST           8          COLHDG(' 郵便番号 ')      
+     A            PREF          10J         COLHDG(' 都道府県 ')      
+     A            ADDR1         32O         COLHDG(' 住所１ ')        
+     A            ADDR2         32O         COLHDG(' 住所２ ')        
+     A            ADDR3         32O         COLHDG(' 住所３ ')        
+     A            BIRTHD         8S         COLHDG(' 生年月日 ')      
+     A          K REGNO                                               
