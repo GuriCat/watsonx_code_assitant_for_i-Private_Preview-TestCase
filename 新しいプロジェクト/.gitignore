@@ -1,0 +1,6 @@
+# 一般的なGitの無視ファイル
+node_modules/
+.DS_Store
+.env
+.idea/
+.vscode/
